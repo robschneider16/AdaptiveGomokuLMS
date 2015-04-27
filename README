@@ -1,0 +1,35 @@
+README
+
+To combile my program, type:
+javac LearningAgent.java
+
+To run my program, type:
+java LearningAgent
+
+ensure the HypothesisData/ file is located in the same directory as the LearningAgent file
+
+These are the following Features I searched for. I did computed each features for each player.
+sxxxx
+xxxxs
+sxxxxs
+oxxxss
+sxxsxs
+sxsxxs
+oxxsss
+sssxxo
+oxssss
+ssssxo
+oxsxss
+ssxsxo
+ossxsx
+xsxsso
+xsxxx
+xxxsx
+xxsxx
+sxxxs
+sxsxs
+xsxsx
+ssxxxo
+xxxxx
+
+More details to come

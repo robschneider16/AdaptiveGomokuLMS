@@ -1,0 +1,14 @@
+#!/bin/bash
+
+NumGames=1000
+for i in `seq $NumGames`; do 
+	echo game $i
+	java LearningAgent & 
+	java LearningAgentNoTrain
+done
+
+
+
+
+
+
